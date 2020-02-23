@@ -1,0 +1,28 @@
+[
+  {
+    "img": "../assets/img/sl2.png",
+    "name": "Шашлык",
+    "description": "",
+    "gram": "200",
+    "newPrice": "350",
+    "oldPrice": "500"
+
+  },
+  {
+    "img": "../assets/img/sl1.png",
+    "name": "Ребрышки барбекю 2",
+    "description": "",
+    "gram": "200",
+    "newPrice": "150",
+    "oldPrice": "500"
+  },
+  {
+    "img": "../assets/img/sl1.png",
+    "name": "Ребрышки барбекю",
+    "description": "",
+    "gram": "200",
+    "newPrice": "250",
+    "oldPrice": "500"
+  }
+
+]

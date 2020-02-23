@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Первые блюда",
+    "code": "pervoe",
+    "img": "../assets/img/menu-die_img1.png"
+  },
+  {
+    "name": "Вторые блюда и блены",
+    "code": "pervoe",
+    "img": "../assets/img/menu-die_img2.png"
+  },
+  {
+    "name": "Гарниры и соусы",
+    "code": "pervoe",
+    "img": "../assets/img/menu-die_img3.png"
+  },
+  {
+    "name": "Закуски и салаты",
+    "code": "pervoe",
+    "img": "../assets/img/menu-die_img4.png"
+  },
+  {
+    "name": "Блюда на мангале и рыбные блюда",
+    "code": "pervoe",
+    "img": "../assets/img/menu-die_img5.png"
+  },
+  {
+    "name": "Напитки",
+    "code": "pervoe",
+    "img": "../assets/img/menu-die_img6.png"
+  },
+  {
+    "name": "Десерты",
+    "code": "pervoe",
+    "img": "../assets/img/menu-die_img7.png"
+  }
+]
